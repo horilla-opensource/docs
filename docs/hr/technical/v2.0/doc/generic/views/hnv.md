@@ -43,7 +43,7 @@ class EmployeeNavView(HorillaNavView):
 
 ### Example Output for HNV
 
-![alt text](media/hnv.png.png)
+![alt text](media/hnv.png)
 
 ## View Types
 View types is the attribute for the `hnv` that helps to include multiple views in the navbar. Using the feature can be configured the views like list, card or any other views instead of `htv`.
