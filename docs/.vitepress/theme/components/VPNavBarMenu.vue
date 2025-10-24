@@ -19,7 +19,7 @@ const filterNavItems = () => {
     filterdNav.value = navItems.filter((element) => {
       return (
         !element.activeMatch ||
-        (element.activeMatch === '/functional/' && path === '/') ||
+        (element.activeMatch === '/hr/functional/' && path === '/') ||
         path.includes(element.activeMatch)
       )
     })

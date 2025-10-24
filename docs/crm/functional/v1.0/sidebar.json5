@@ -1,0 +1,149 @@
+
+[
+  { text: "Introduction", link: "/crm/functional/v1.0/", items: [""] },
+  {
+    collapsed: true,
+    text: "Sales",
+    link: "/crm/functional/v1.0/sales/",
+    items: [
+      {
+        text: "Leads",
+        link: "/crm/functional/v1.0/sales/leads",
+      },
+      {
+        text: "Campaigns",
+        link: "/crm/functional/v1.0/sales/campaigns",
+      },
+      {
+        text: "Opportunities",
+        link: "/crm/functional/v1.0/sales/opportunities",
+      },
+      {
+        text: "Forecast",
+        link: "/crm/functional/v1.0/sales/forecast",
+      },
+    ],
+  },
+  
+  {
+    collapsed: true,
+    text: "People",
+    link: "/crm/functional/v1.0/people/",
+    items: [
+      {
+        text: "Accounts",
+        link: "/crm/functional/v1.0/people/accounts",
+      },
+      {
+        text: "Contacts",
+        link: "/crm/functional/v1.0/people/contacts",
+      },
+    ],
+  },
+  {
+    collapsed: true,
+    text: "Analytics",
+    link: "/crm/functional/v1.0/analytics/",
+    items: [
+      {
+        text: "Reports",
+        link: "/crm/functional/v1.0/analytics/reports",
+      },
+      {
+        text: "Dashboards",
+        link: "/crm/functional/v1.0/analytics/dashboards",
+      },
+    ],
+  },
+  {
+    collapsed: true,
+    text: "Schedule",
+    link: "/crm/functional/v1.0/schedule/",
+    items: [
+      {
+        text: "Calendar",
+        link: "/crm/functional/v1.0/schedule/calendar",
+      },
+      {
+        text: "Activities",
+        link: "/crm/functional/v1.0/schedule/activities",
+      },
+    ],
+  },
+  {
+    collapsed: true,
+    text: "Settings",
+    link: "/crm/functional/v1.0/settings/",
+    items: [
+      {
+        text: "Company Information",
+        link: "/crm/functional/v1.0/settings/company-information",
+      },
+      {
+        text: "Users",
+        link: "/crm/functional/v1.0/settings/users",
+      },
+      {
+        text: "Branches & Department",
+        link: "/crm/functional/v1.0/settings/branches-&-departments",
+      },
+      {
+        text: "Relationship Roles",
+        link: "/crm/functional/v1.0/settings/relationship-roles",
+      },
+      {
+        text: "Scoring Rule",
+        link: "/crm/functional/v1.0/settings/scoring-rule",
+      },
+      {
+        text: "Lead Stage and Opportunity Stage ",
+        link: "/crm/functional/v1.0/settings/lead-stage-&-opportunity-stage",
+      },
+      {
+        text: "Big Deal alert",
+        link: "/crm/functional/v1.0/settings/big-deal-alert",
+      },
+      {
+        text: "Recycle Bin",
+        link: "/crm/functional/v1.0/settings/recycle-bin",
+      },
+      {
+        text: "Forecast Type",
+        link: "/crm/functional/v1.0/settings/forecast-type",
+      },
+      {
+        text: "Forecast Target",
+        link: "/crm/functional/v1.0/settings/forecast-target",
+      },
+      {
+        text: "Import Data",
+        link: "/crm/functional/v1.0/settings/import-data",
+      },
+    ],
+  },
+  {
+    collapsed: true,
+    text: "My Settings",
+    link: "/crm/functional/v1.0/mysettings/",
+    items: [
+      {
+        text: "profile",
+        link: "/crm/functional/v1.0/mysettings/profile",
+      },
+      {
+        text: "Regional Formatting",
+        link: "/crm/functional/v1.0/mysettings/regional-formatting",
+      },
+      {
+        text: "Login History",
+        link: "/crm/functional/v1.0/mysettings/login-history",
+      },
+      {
+        text: "Oppotunity Teams",
+        link: "/crm/functional/v1.0/mysettings/oppotunity-teams",
+      },
+      
+    ],
+  },
+]
+

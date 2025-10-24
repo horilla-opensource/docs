@@ -1,0 +1,126 @@
+[
+    {
+        collapsed: false,
+        text: "Installation & Setup", items: [
+            {
+                text: "Getting Started", link: "/hr/technical/v2.0/",
+                items: [
+                    {
+                        text: "Install Python", link: "/hr/technical/v2.0/#python-installation"
+                    },
+                    {
+                        text: "Road Map", link: "/hr/technical/v2.0/#roadmap"
+                    },
+                ]
+            },
+            {
+                text: "Installation using shell", link: "/hr/technical/v2.0/installation-using-shell"
+            },
+            {
+                text: 'Databases', link: "/hr/technical/v2.0/database"
+            },
+            {
+                text: 'Fail2Ban', link: "/hr/technical/v2.0/fail2ban"
+            },
+        ]
+    },
+    {
+        text: 'Generics and Methods',
+        collapsed: true,
+
+        items: [
+            {
+                text: 'List view', link: '/hr/technical/v2.0/doc/generic/views/hlv',
+            },
+            {
+                text: 'Card view', link: '/hr/technical/v2.0/doc/generic/views/hcv'
+            },
+            {
+                text: 'Detailed view', link: '/hr/technical/v2.0/doc/generic/views/hdv'
+            },
+            {
+                text: 'Tab view', link: '/hr/technical/v2.0/doc/generic/views/htv'
+            },
+            {
+                text: 'Nav view', link: '/hr/technical/v2.0/doc/generic/views/hnv'
+            },
+            {
+                text: 'Form view', link: '/hr/technical/v2.0/doc/generic/views/hfv'
+            },
+            {
+                text: 'Methods', link: '/hr/technical/v2.0/doc/generic/methods/methods',
+                items: [
+                    {
+                        text: "CBV Methods", link: '/hr/technical/v2.0/doc/generic/methods/methods'
+                    },
+                ]
+            },
+            {
+                text: 'Decorators', link: '/hr/technical/v2.0/doc/generic/decorators/general-decorators',
+                items: [
+                    {
+                        text: "General Decorators", link: '/hr/technical/v2.0/doc/generic/decorators/general-decorators'
+                    },
+                    {
+                        text: "CBV Decorators", link: '/hr/technical/v2.0/doc/generic/decorators/cbv-decorators'
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        text: 'Horilla API',
+        collapsed: true,
+        items: [
+            {
+                text: 'Base API', link: '/hr/technical/v2.0/doc/api/baseapi'
+            },
+            {
+                text: 'Employee API', link: '/hr/technical/v2.0/doc/api/employeeapi'
+            },
+            {
+                text: 'Attendance API', link: '/hr/technical/v2.0/doc/api/attendanceapi'
+            },
+            {
+                text: 'Leave API', link: '/hr/technical/v2.0/doc/api/leaveapi'
+            },
+        ]
+    },
+    {
+        text: 'Integerations',
+        collapsed: true,
+        items: [
+            {
+                text: 'AWS S3 Integration', link: '/hr/technical/v2.0/doc/integrations/s3bucket'
+            },
+            {
+                text: 'Gdrive Backup', link: '/hr/technical/v2.0/doc/integrations/gdrivebackup'
+            },
+            {
+                text: 'Whatsapp', link: '/hr/technical/v2.0/doc/integrations/whatsapp/whatsapp'
+            },
+        ]
+    },
+    {
+        text: 'Deployment',
+        collapsed: true,
+        items: [
+            {
+                text: 'Ubuntu',
+                items: [
+                    {
+                        text: "Service File",
+                        link: '/hr/technical/v2.0/doc/deployment/ubuntu-service-file'
+                    },
+                    {
+                        text: "Gunicorn and Nginx",
+                        link: '/hr/technical/v2.0/doc/deployment/nginx-gunicorn'
+                    }
+                ]
+            },
+            {
+                text: 'AWS Linux', link: '/hr/technical/v2.0/doc/deployment/linux'
+            },
+        ]
+    },
+]

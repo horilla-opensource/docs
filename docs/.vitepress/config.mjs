@@ -5,21 +5,23 @@ import { logPlugin } from "./vitepress-plugin-log"; // Import the custom plugin
 import { defineConfig } from "vitepress";
 
 // Read and parse the JSON5 files for the sidebars
-const techSidebarPathv2 = "./docs/technical/v2.0/sidebar.json5";
-const technicalSidebarv2 = json5.parse(
-  fs.readFileSync(techSidebarPathv2, "utf8")
+const hrTechSidebarPathv2 = "./docs/hr/technical/v2.0/sidebar.json5";
+const hrTechnicalSidebarv2 = json5.parse(
+  fs.readFileSync(hrTechSidebarPathv2, "utf8")
 );
 
-// const fSidebarPathv1 = './docs/functional/nav.json5';
+// const fSidebarPathv1 = './docs/hr/functional/nav.json5';
 // const fSidebarv1 = json5.parse(fs.readFileSync(fSidebarPathv1, 'utf8'));
 
-const funcSidebarPathv1 = "./docs/functional/v1.0/sidebar.json5";
-const funcSidebarv1 = json5.parse(fs.readFileSync(funcSidebarPathv1, "utf8"));
+const hrFuncSidebarPathv1 = "./docs/hr/functional/v1.0/sidebar.json5";
+const hrFuncSidebarv1 = json5.parse(fs.readFileSync(hrFuncSidebarPathv1, "utf8"));
+
+const crmFuncSidebarPathv1 = "./docs/crm/functional/v1.0/sidebar.json5";
+const crmFuncSidebarv1 = json5.parse(fs.readFileSync(crmFuncSidebarPathv1, "utf8"));
 
 // Export the VitePress configuration
 export default defineConfig({
   cleanUrls: true,
-  ignoreDeadLinks: true,
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }]
   ],
@@ -82,30 +84,31 @@ export default defineConfig({
         text: '<span class="git-icon"><span>',
       },
       {
-        link: "/technical/v2.0/",
+        link: "/hr/technical/v2.0/",
         text: "Tech Docs",
-        activeMatch: "/functional/",
+        activeMatch: "/hr/functional/",
       },
       {
         text: '<span id="activeVersion" >v2.0</span>',
-        items: [{ text: "v2.0", link: "/technical/v2.0/" }],
-        activeMatch: "/technical/",
+        items: [{ text: "v2.0", link: "/hr/technical/v2.0/" }],
+        activeMatch: "/hr/technical/",
       },
       {
         text: '<span id="activeVersion" >v1.0</span>',
         items: [
-          // { text: 'v1.0', link: '/functional/v1.0/' },
-          { text: "v1.0", link: "/functional/v1.0/" },
+          // { text: 'v1.0', link: '/hr/functional/v1.0/' },
+          { text: "v1.0", link: "/hr/functional/v1.0/" },
         ],
-        activeMatch: "/functional/",
+        activeMatch: "/hr/functional/",
       },
     ],
 
     // Sidebar configuration
     sidebar: {
-      "/": funcSidebarv1,
-      "/functional/v1.0/": funcSidebarv1,
-      "/technical/v2.0/": technicalSidebarv2,
+      "/": hrFuncSidebarv1,
+      "/hr/functional/v1.0/": hrFuncSidebarv1,
+      "/crm/functional/v1.0/": crmFuncSidebarv1,
+      "/hr/technical/v2.0/": hrTechnicalSidebarv2,
     },
 
     // Add plugins

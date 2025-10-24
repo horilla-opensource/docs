@@ -7,7 +7,7 @@
    Clone or pull the Horilla source code to `/opt/Horilla_Main`:
 
    ```bash
-   sudo git pull https://github.com/horilla-opensource/horilla.git master
+   sudo git pull https://github.com/horilla-opensource/horilla.gt master
    ```
 
 2. **Set Directory Ownership**  

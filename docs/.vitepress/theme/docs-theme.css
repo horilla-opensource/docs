@@ -1,3 +1,6 @@
+.full-width {
+  width: 100%;
+}
 .git-icon {
   content: url("https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg");
   height: 26px;

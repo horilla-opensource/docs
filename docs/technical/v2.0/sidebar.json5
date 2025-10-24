@@ -3,24 +3,24 @@
         collapsed: false,
         text: "Installation & Setup", items: [
             {
-                text: "Getting Started", link: "/technical/v2.0/",
+                text: "Getting Started", link: "/hr/technical/v2.0/",
                 items: [
                     {
-                        text: "Install Python", link: "/technical/v2.0/#python-installation"
+                        text: "Install Python", link: "/hr/technical/v2.0/#python-installation"
                     },
                     {
-                        text: "Road Map", link: "/technical/v2.0/#roadmap"
+                        text: "Road Map", link: "/hr/technical/v2.0/#roadmap"
                     },
                 ]
             },
             {
-                text: "Installation using shell", link: "/technical/v2.0/installation-using-shell"
+                text: "Installation using shell", link: "/hr/technical/v2.0/installation-using-shell"
             },
             {
-                text: 'Databases', link: "/technical/v2.0/database"
+                text: 'Databases', link: "/hr/technical/v2.0/database"
             },
             {
-                text: 'Fail2Ban', link: "/technical/v2.0/fail2ban"
+                text: 'Fail2Ban', link: "/hr/technical/v2.0/fail2ban"
             },
         ]
     },
@@ -30,39 +30,39 @@
 
         items: [
             {
-                text: 'List view', link: '/technical/v2.0/doc/generic/views/hlv',
+                text: 'List view', link: '/hr/technical/v2.0/doc/generic/views/hlv',
             },
             {
-                text: 'Card view', link: '/technical/v2.0/doc/generic/views/hcv'
+                text: 'Card view', link: '/hr/technical/v2.0/doc/generic/views/hcv'
             },
             {
-                text: 'Detailed view', link: '/technical/v2.0/doc/generic/views/hdv'
+                text: 'Detailed view', link: '/hr/technical/v2.0/doc/generic/views/hdv'
             },
             {
-                text: 'Tab view', link: '/technical/v2.0/doc/generic/views/htv'
+                text: 'Tab view', link: '/hr/technical/v2.0/doc/generic/views/htv'
             },
             {
-                text: 'Nav view', link: '/technical/v2.0/doc/generic/views/hnv'
+                text: 'Nav view', link: '/hr/technical/v2.0/doc/generic/views/hnv'
             },
             {
-                text: 'Form view', link: '/technical/v2.0/doc/generic/views/hfv'
+                text: 'Form view', link: '/hr/technical/v2.0/doc/generic/views/hfv'
             },
             {
-                text: 'Methods', link: '/technical/v2.0/doc/generic/methods/methods',
+                text: 'Methods', link: '/hr/technical/v2.0/doc/generic/methods/methods',
                 items: [
                     {
-                        text: "CBV Methods", link: '/technical/v2.0/doc/generic/methods/methods'
+                        text: "CBV Methods", link: '/hr/technical/v2.0/doc/generic/methods/methods'
                     },
                 ]
             },
             {
-                text: 'Decorators', link: '/technical/v2.0/doc/generic/decorators/general-decorators',
+                text: 'Decorators', link: '/hr/technical/v2.0/doc/generic/decorators/general-decorators',
                 items: [
                     {
-                        text: "General Decorators", link: '/technical/v2.0/doc/generic/decorators/general-decorators'
+                        text: "General Decorators", link: '/hr/technical/v2.0/doc/generic/decorators/general-decorators'
                     },
                     {
-                        text: "CBV Decorators", link: '/technical/v2.0/doc/generic/decorators/cbv-decorators'
+                        text: "CBV Decorators", link: '/hr/technical/v2.0/doc/generic/decorators/cbv-decorators'
                     },
                 ]
             },
@@ -73,16 +73,16 @@
         collapsed: true,
         items: [
             {
-                text: 'Base API', link: '/technical/v2.0/doc/api/baseapi'
+                text: 'Base API', link: '/hr/technical/v2.0/doc/api/baseapi'
             },
             {
-                text: 'Employee API', link: '/technical/v2.0/doc/api/employeeapi'
+                text: 'Employee API', link: '/hr/technical/v2.0/doc/api/employeeapi'
             },
             {
-                text: 'Attendance API', link: '/technical/v2.0/doc/api/attendanceapi'
+                text: 'Attendance API', link: '/hr/technical/v2.0/doc/api/attendanceapi'
             },
             {
-                text: 'Leave API', link: '/technical/v2.0/doc/api/leaveapi'
+                text: 'Leave API', link: '/hr/technical/v2.0/doc/api/leaveapi'
             },
         ]
     },
@@ -91,13 +91,13 @@
         collapsed: true,
         items: [
             {
-                text: 'AWS S3 Integration', link: '/technical/v2.0/doc/integrations/s3bucket'
+                text: 'AWS S3 Integration', link: '/hr/technical/v2.0/doc/integrations/s3bucket'
             },
             {
-                text: 'Gdrive Backup', link: '/technical/v2.0/doc/integrations/gdrivebackup'
+                text: 'Gdrive Backup', link: '/hr/technical/v2.0/doc/integrations/gdrivebackup'
             },
             {
-                text: 'Whatsapp', link: '/technical/v2.0/doc/integrations/whatsapp/whatsapp'
+                text: 'Whatsapp', link: '/hr/technical/v2.0/doc/integrations/whatsapp/whatsapp'
             },
             {
                 text: 'LDAP', link: '/technical/v2.0/doc/integrations/ldap/ldap'
@@ -113,16 +113,16 @@
                 items: [
                     {
                         text: "Service File",
-                        link: '/technical/v2.0/doc/deployment/ubuntu-service-file'
+                        link: '/hr/technical/v2.0/doc/deployment/ubuntu-service-file'
                     },
                     {
                         text: "Gunicorn and Nginx",
-                        link: '/technical/v2.0/doc/deployment/nginx-gunicorn'
+                        link: '/hr/technical/v2.0/doc/deployment/nginx-gunicorn'
                     }
                 ]
             },
             {
-                text: 'AWS Linux', link: '/technical/v2.0/doc/deployment/linux'
+                text: 'AWS Linux', link: '/hr/technical/v2.0/doc/deployment/linux'
             },
         ]
     },
