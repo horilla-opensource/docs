@@ -15,11 +15,11 @@ The Horilla HRMS’s [Helpdesk module](https://www.horilla.com/features/helpdesk
 ## FAQs
 Horilla Help Desk provides detailed information for each question to prompt an action within the Horilla HRM system. Users can create Helpdesk FAQs by module, addressing doubts within each module using the Horilla Helpdesk to efficiently resolve employee inquiries.
 
-![alt text](image.png)
+![alt text](media/image.png)
 
 ## Tickets
 Horilla Help Desk offers employees the ability to create various types of tickets, including suggestions, complaints, and anonymous submissions. This feature enhances the versatil
 
-![alt text](image-1.png)
+![alt text](media/image-1.png)
 
-![alt text](image-2.png)
+![alt text](media/image-2.png)

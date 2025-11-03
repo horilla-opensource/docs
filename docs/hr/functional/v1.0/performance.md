@@ -9,7 +9,7 @@ A Performance Management System (PMS) within Horilla software is a comprehensive
 ## **Dashboard**
 
 The Dashboard provides an overview of performance metrics, including Objectives, Feedback, and Key Results. It displays data through graphs and summary counts.
-![alt text](performance/image.png)
+![alt text](performance/media/image.png)
 Image.1
 
 - **Objectives At risk:** Displays objectives that need attention (objectives status at risk), with normal employees seeing their own data, while managers can view all objectives at risk.
@@ -18,7 +18,7 @@ Image.1
 
 The objectives of a [Performance Management System](https://www.horilla.com/features/pms/) (PMS) encompass several key goals aimed at enhancing employee performance and aligning it with organizational objectives.
 
-![alt text](performance/image-1.png)
+![alt text](performance/media/image-1.png)
 Image.2
 
 - From the Performance submenu, you can access objectives, _(1 from image.1)_. This provides an overall view of the objectives, allowing for easier monitoring and management.
@@ -28,7 +28,7 @@ Image.2
 
 - **Generate Objectives button**
 
-![alt text](performance/image-2.png)
+![alt text](performance/media/image-2.png)
 
 Image.3
 
@@ -55,7 +55,7 @@ This form contains the following:
 
 1. **Create button**
 
-![alt text](performance/image-3.png)
+![alt text](performance/media/image-3.png)
 Image.4
 
 - This "Create" button _(3 from image.2)_ is to assign individual employees to an Objective who needs to achieve them, As well as to create a self objective in case of a normal employee.
@@ -83,7 +83,7 @@ Image.4
 
 Clicking on an objective will display a view that shows all the assigned employees under that objective, along with the status and progress of each key result for each employee. Additionally, it provides an overview of the overall progress of each employee toward that objective.
 
-![alt text](performance/image-4.png)
+![alt text](performance/media/image-4.png)
 Image.5
 
 - **Update Progress**  
@@ -93,19 +93,19 @@ Image.5
 
   Managers have the capability to add key results for employees, which then become associated with their respective objectives. This allows managers to monitor the progress of key results and overall objectives in a single, consolidated view, ensuring timely tracking and management of employee performance.
 
-![alt text](performance/image-5.png)
+![alt text](performance/media/image-5.png)
 Image.6
 
 - ### **Activities**
 
-![alt text](performance/image-6.png)
+![alt text](performance/media/image-6.png)
 Image.7
 
 By clicking on the activity button _(4 from image.5)_, an activity box will appear, displaying all the changes and their details made to the objective. Additionally, users can provide comments or notes to the assignee within this activity box, facilitating communication and collaboration regarding the objective.
 
 - ### **Add Assignees to objective**
 
-![alt text](performance/image-7.png)
+![alt text](performance/media/image-7.png)
 Image.8
 
 Managers have the capability to add employees as assignees, and can provide a start date.Then those employees records can be monitored on the objective detailed view.
@@ -119,7 +119,7 @@ It offers a comprehensive view of an individual's strengths, weaknesses, and are
 
   The 360 feedback option on the Performance submenu redirects the user to the feedback view, where feedback is categorized and organized into Self Feedback, Requested Feedback, All Feedback, and Anonymous Feedback. The All Feedback tab is exclusively accessible to responsible managers, displaying all feedback except for anonymous submissions. This ensures managers have comprehensive visibility into feedback while respecting the anonymity of contributors.
 
-![alt text](performance/image-8.png)
+![alt text](performance/media/image-8.png)
 Image.9
 
 - **Self-feedback**  
@@ -135,7 +135,7 @@ Image.9
 
   By clicking the create button _(6 from image.9)_, users access a form to generate feedback. Here, they can specify subordinates, supervisors, colleagues, and all necessary details. Once the feedback is created, Horilla automatically displays it on the requested feedback tab of the mentioned employees and notifies them accordingly. This streamlined process facilitates easy and seamless feedback collection from all relevant parties.
 
-![alt text](performance/image-9.png)
+![alt text](performance/media/image-9.png)
 Image.10
 
 This form contains the following:
@@ -162,12 +162,12 @@ This form contains the following:
 
 Feedback can be provided by completing the questions created by the employee.
 
-![alt text](performance/image-10.png)
+![alt text](performance/media/image-10.png)
 Image.11
 
 Once feedback is submitted, Horilla notifies the creator and provides access to view the responses. This enables the creator to evaluate themselves based on the feedback received.
 
-![alt text](performance/image-11.png)
+![alt text](performance/media/image-11.png)
 Image.12
 
 - ### **Anonymous feedback**
@@ -181,7 +181,7 @@ Image.12
   3.Department: feedback about a department  
   4.Job position: Feedback about a particular job position.
 
-![alt text](performance/image-12.png)
+![alt text](performance/media/image-12.png)
 Image.13
 
 Horilla will display the feedback to the responsible employee(s) without revealing any details about the creator, ensuring anonymity and confidentiality.
@@ -190,7 +190,7 @@ Horilla will display the feedback to the responsible employee(s) without reveali
 
 Horilla's meeting feature is designed to enhance workplace communication by providing options for both one-on-one and team meetings with employees. Whether you need to conduct performance reviews, project discussions, or collaborative brainstorming sessions, this feature ensures your meetings are organized, efficient, and effective. With built-in scheduling and notification tools, Horilla helps you manage meetings seamlessly, keeping everyone on the same page and driving better results across your team.
 
-![alt text](performance/image-13.png)
+![alt text](performance/media/image-13.png)
 
 - To access the meetings page, click on the meetings tab under performance in sidebar (1 from image 1).
 
@@ -208,7 +208,7 @@ To create a new meeting,
   - Question template: Template containing the questions and important topics for the meeting
   - Show response: whether show the response or not
 
-![alt text](performance/image-14.png)
+![alt text](performance/media/image-14.png)
 
 - Users can add MoM (Minutes of meeting) by clicking on the “+” (3 from image 1\) button
 - To answer the meeting question template, answerable employees and managers can click on the button (4 from image 1\)
@@ -221,12 +221,12 @@ To create a new meeting,
 Horilla includes a reward system where employees earn bonus points for achievements or completing duties  
 Managers can set up criteria for awarding bonus points under **Settings \-\> Performance \-\> Bonus Point Setting**.
 
-![alt text](performance/image-15.png)
+![alt text](performance/media/image-15.png)
 Image.14
 
 - By toggling “Is Active” button can enable or disable the employee bonus point setting
 
-![alt text](performance/image-16.png)
+![alt text](performance/media/image-16.png)
 Image.15
 
 - Bonus point setting Form contains:
@@ -254,7 +254,7 @@ Image.15
 
 **Employee Bonus Point**
 
-![alt text](performance/image-17.png)
+![alt text](performance/media/image-17.png)
 Image.16
 
 All the Bonus points achieved by the employee will show here. It will show Bonus point and how the employee got the bonus point
@@ -263,11 +263,11 @@ All the Bonus points achieved by the employee will show here. It will show Bonus
 
 In summary, this view provides a centralized way to manage and track periods of time, which can be used to automate certain HR and performance management tasks. By setting the start and end dates for each period, you can ensure that feedback and OKRs are aligned with your organization's goals and objectives. The update and delete buttons make it easy to make changes to existing periods or remove them as needed. Overall, this view can help streamline your HR and performance management processes by providing a clear framework for setting and managing time periods.
 
-![alt text](performance/image-18.png)
+![alt text](performance/media/image-18.png)
 Image.17
 
 - **Create button**  
-  ![alt text](performance/image-19.png)
+  ![alt text](performance/media/image-19.png)
   Image.18
 
       This form contains the following:
@@ -281,11 +281,11 @@ Image.17
 
 Here you have the ability to create your own question template and add questions based on your specific needs or requirements. A question template provides a structure or framework for asking questions in a particular context, such as during a feedback. By creating your own template, you can tailor the questions to suit your specific goals.
 
-![alt text](performance/image-20.png)
+![alt text](performance/media/image-20.png)
 Image.19
 
 Horilla offers various types of questions designed for ease of use and enhanced visual representation, catering to diverse feedback needs and preferences.
 
-![alt text](performance/image-21.png)Image.20
+![alt text](performance/media/image-21.png)Image.20
 
 Creators can select from different question types such as Text, Rating, Boolean, Multi-choice, and Likert, allowing them to tailor questions according to their specific requirements and preferences within Horilla.

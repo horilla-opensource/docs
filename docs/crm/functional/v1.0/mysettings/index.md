@@ -28,8 +28,7 @@ The Horilla CRM My Settings Section provides users with comprehensive control ov
 * Holiday management for personal and company-wide schedules  
 * Team organization for sales opportunities
 
-![alt text](media/image.png)
-
+![alt text](media/image-9.png)
 ### **2.2 User Profile Settings**
 
 **Purpose:** Enable users to maintain accurate personal and professional information within the CRM system.

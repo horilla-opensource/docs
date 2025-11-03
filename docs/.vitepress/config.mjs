@@ -22,6 +22,13 @@ const crmFuncSidebarv1 = json5.parse(fs.readFileSync(crmFuncSidebarPathv1, "utf8
 // Export the VitePress configuration
 export default defineConfig({
   cleanUrls: true,
+  ignoreDeadLinks: [
+    // ignore ALL localhost links
+    /^https?:\/\/localhost/,
+
+    // (optional) ignore specific known placeholders if you have any
+    'http://localhost:8000'
+  ],
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }]
   ],
