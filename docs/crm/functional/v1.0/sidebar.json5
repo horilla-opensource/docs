@@ -93,27 +93,15 @@
       },
       {
         text: "Scoring Rule",
-        link: "/crm/functional/v1.0/settings/scoring-rule",
+        link: "/crm/functional/v1.0/settings/scoring-rules",
       },
       {
         text: "Lead Stage and Opportunity Stage ",
         link: "/crm/functional/v1.0/settings/lead-stage-&-opportunity-stage",
       },
       {
-        text: "Big Deal alert",
-        link: "/crm/functional/v1.0/settings/big-deal-alert",
-      },
-      {
         text: "Recycle Bin",
         link: "/crm/functional/v1.0/settings/recycle-bin",
-      },
-      {
-        text: "Forecast Type",
-        link: "/crm/functional/v1.0/settings/forecast-type",
-      },
-      {
-        text: "Forecast Target",
-        link: "/crm/functional/v1.0/settings/forecast-target",
       },
       {
         text: "Import Data",
