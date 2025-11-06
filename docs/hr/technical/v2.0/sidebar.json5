@@ -91,7 +91,7 @@
         collapsed: true,
         items: [
             {
-                text: 'AWS S3 Integration', link: '/hr/technical/v2.0/doc/integrations/s3bucket'
+                text: 'AWS S3 Integrations', link: '/hr/technical/v2.0/doc/integrations/s3bucket'
             },
             {
                 text: 'Gdrive Backup', link: '/hr/technical/v2.0/doc/integrations/gdrivebackup'
