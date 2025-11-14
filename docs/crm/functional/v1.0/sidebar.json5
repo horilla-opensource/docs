@@ -83,6 +83,10 @@
         text: "Users",
         link: "/crm/functional/v1.0/settings/users",
       },
+       {
+        text: "Groups and Permissions",
+        link: "/crm/functional/v1.0/settings/groups-permissions",
+      },
       {
         text: "Branches & Department",
         link: "/crm/functional/v1.0/settings/branches-&-departments",
@@ -107,6 +111,22 @@
         text: "Import Data",
         link: "/crm/functional/v1.0/settings/import-data",
       },
+      {
+        text: "Export Data",
+        link: "/crm/functional/v1.0/settings/export-data",
+      },
+       {
+        text: "Incoming Mail Server",
+        link: "/crm/functional/v1.0/settings/incoming-mail-configuration",
+      },
+       {
+        text: "Outgoing Mail Server",
+        link: "/crm/functional/v1.0/settings/outgoing-mail-configuration",
+      },
+      {
+        text: "Mail Template",
+        link: "/crm/functional/v1.0/settings/mail-template",
+      },
     ],
   },
   {
@@ -115,7 +135,7 @@
     link: "/crm/functional/v1.0/mysettings/",
     items: [
       {
-        text: "profile",
+        text: "Profile",
         link: "/crm/functional/v1.0/mysettings/profile",
       },
       {
@@ -129,6 +149,10 @@
       {
         text: "Oppotunity Teams",
         link: "/crm/functional/v1.0/mysettings/oppotunity-teams",
+      },
+      {
+        text: "Short Keys",
+        link: "/crm/functional/v1.0/mysettings/short-keys",
       },
       
     ],

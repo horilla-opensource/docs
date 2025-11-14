@@ -55,7 +55,6 @@ The **Horilla CRM Calendar Module** provides users with a unified interface to m
 
 ![alt text](media/image-6.png)
 
-![alt text](media/image-7.png)
 
 ### **1.4 Activity Detail View**
 
@@ -88,7 +87,8 @@ The **Horilla CRM Calendar Module** provides users with a unified interface to m
 * Optional notes to explain the unavailability reason.
 
 ![alt text](media/image-9.png)
-![alt text](media/image-10.png)
+
+
 ##  **Benefits**
 
 * Centralized scheduling of all CRM activities.
@@ -98,5 +98,3 @@ The **Horilla CRM Calendar Module** provides users with a unified interface to m
 * Improved productivity with direct actions from the calendar interface.
 
 * Prevents scheduling conflicts with unavailability tracking.
-
-* Strengthens CRM’s 360° engagement tracking by linking activities with records.

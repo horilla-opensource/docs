@@ -20,6 +20,9 @@
                 text: 'Databases', link: "/hr/technical/v2.0/database"
             },
             {
+                text: 'Settings Migration Guide', link: "/hr/technical/v2.0/settings-migration-guide-v1-to-v2"
+            },
+            {
                 text: 'Fail2Ban', link: "/hr/technical/v2.0/fail2ban"
             },
         ]
@@ -87,7 +90,7 @@
         ]
     },
     {
-        text: 'Integration',
+        text: 'Integerations',
         collapsed: true,
         items: [
             {
@@ -98,6 +101,9 @@
             },
             {
                 text: 'Whatsapp', link: '/hr/technical/v2.0/doc/integrations/whatsapp/whatsapp'
+            },
+            {
+                text: 'LDAP', link: '/technical/v2.0/doc/integrations/ldap/ldap'
             },
         ]
     },

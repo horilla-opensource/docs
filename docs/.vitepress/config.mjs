@@ -90,24 +90,40 @@ export default defineConfig({
         link: "https://github.com/horilla-opensource/horilla",
         text: '<span class="git-icon"><span>',
       },
+      // {
+      //   link: "/hr/technical/v2.0/",
+      //   text: "Tech Docs",
+      //   activeMatch: "/hr/functional/",
+      // },
       {
-        link: "/hr/technical/v2.0/",
-        text: "Tech Docs",
-        activeMatch: "/hr/functional/",
-      },
-      {
-        text: '<span id="activeVersion" >v2.0</span>',
-        items: [{ text: "v2.0", link: "/hr/technical/v2.0/" }],
-        activeMatch: "/hr/technical/",
-      },
-      {
-        text: '<span id="activeVersion" >v1.0</span>',
+        text: "Docs",
         items: [
-          // { text: 'v1.0', link: '/hr/functional/v1.0/' },
-          { text: "v1.0", link: "/hr/functional/v1.0/" },
-        ],
-        activeMatch: "/hr/functional/",
+          { text: "HR", link: "/hr/functional/v1.0/" },
+          { text: "CRM", link: "/crm/functional/v1.0/" },
+          { text: "HR Technical", link: "/hr/technical/v2.0/" }
+        ]
       },
+      // {
+      //   text: '<span id="activeVersion" >v2.0</span>',
+      //   items: [{ text: "v2.0", link: "/hr/technical/v2.0/" }],
+      //   activeMatch: "/hr/technical/",
+      // },
+      // {
+      //   text: '<span id="activeVersion" >v1.0</span>',
+      //   items: [
+      //     // { text: 'v1.0', link: '/hr/functional/v1.0/' },
+      //     { text: "v1.0", link: "/hr/functional/v1.0/" },
+      //   ],
+      //   activeMatch: "/hr/functional/",
+      // },
+      // {
+      //   text: '<span id="activeVersion" >v1.0</span>',
+      //   items: [
+      //     // { text: 'v1.0', link: '/hr/functional/v1.0/' },
+      //     { text: "v1.0", link: "/crm/functional/v1.0/" },
+      //   ],
+      //   activeMatch: "/crm/functional/",
+      // },
     ],
 
     // Sidebar configuration

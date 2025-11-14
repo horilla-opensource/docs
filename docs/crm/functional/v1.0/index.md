@@ -1,4 +1,4 @@
-# **Introduction**
+# **CRM Documentation**
 
 ## **What is Horilla CRM?**
 

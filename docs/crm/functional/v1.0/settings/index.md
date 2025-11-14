@@ -27,8 +27,9 @@ The Horilla CRM Settings Section is the administrative hub for system-wide confi
 
 **Key Features:**
 
-* E-Mail Server configuration  
-* Azure Outlook integration  
+* Incoming Mail Server configuration  
+* Outgoing  Mail Server configuration 
+* Azure Outlook Integration
 * Mail Template management
 
 ### **2.3 Base Settings**
@@ -54,6 +55,8 @@ The Horilla CRM Settings Section is the administrative hub for system-wide confi
 **Key Features:**
 
 * Lead Stage: Define pipeline stages with probability and final stage enforcement
+* Mail to Lead: Automatically converts incoming emails into new leads.
+
 
 ### **2.5 Opportunity Settings**
 
@@ -63,8 +66,11 @@ The Horilla CRM Settings Section is the administrative hub for system-wide confi
 
 **Key Features:**
 
-* Opportunity Stage: Define sales pipeline stages with Open/Closed classification  
-* Big Deal Alert: Configure high-value opportunity notifications
+* Opportunity Stage: Define sales pipeline stages with Open/Closed classification 
+* Opportunity Team Settings: Configure opportunity team settings to enable collabrotion among sales team members
+* Opportunity Split Settings: Enable splitting opportunity revenue or credit among team members.  
+
+
 
 ### **2.6 Forecast Settings**
 
@@ -86,7 +92,10 @@ The Horilla CRM Settings Section is the administrative hub for system-wide confi
 **Key Features:**
 
 * Import Data: Bulk migration with field mapping (CSV, XLS, XLSX)  
+* Export Data: Export data in multiple formats with scheduled exports
 * Recycle Bin: Manage deleted records with restore/permanent delete options
+
+
 
 ## **Conclusion**
 
